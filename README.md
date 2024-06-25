@@ -1,3 +1,3 @@
 # Описание проекта
 Hello world!
-It's meme project, you can find some nice memes here :)
+Here you can find some memes. Welcome :)
