@@ -1,2 +1,3 @@
 # Описание проекта
-Hello world
+Hello world!
+Here you can find some memes. Welcome :)
